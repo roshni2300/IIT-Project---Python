@@ -41,4 +41,14 @@ https://www.python.org/downloads/
 
 Follow the on-screen menu to interact with the application.
 
+# Example of Tasks File (tasks.txt)
+Here’s an example of how tasks are saved in the tasks.txt file:
+
+1,Complete homework,2025-01-10,Pending
+2,Buy groceries,2025-01-12,Pending
+3,Finish project report,2025-01-15,Completed
+
+Each task is stored in a single line with the format:
+Task ID, Description, Deadline, Status
+
 
