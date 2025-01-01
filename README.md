@@ -12,3 +12,20 @@ Edit Task: Users can edit a task's description, deadline, or mark it as complete
 Delete Task: Users can delete a task by its unique ID.
 Mark Task as Completed: Tasks can be marked as completed, and the status will be updated.
 Persistent Data Storage: Tasks are stored in a text file (tasks.txt), ensuring they persist across program sessions.
+
+# How to Run the Project
+1. Clone the repository to your local machine:
+   git clone https://github.com/your-username/todo-list-manager.git
+
+2. Navigate to the project directory:
+   cd todo-list-manager
+
+3. Make sure you have latest Python installed. You can check your Python version by running:
+   python --version
+
+4. Run the program:
+   Python.py
+
+Follow the on-screen menu to interact with the application.
+
+
