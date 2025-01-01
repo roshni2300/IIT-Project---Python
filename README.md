@@ -1,5 +1,4 @@
-# IIT-Project---Python
-To-Do List Manager
+# IIT Project - To Do List
 
 # Project Description
 The To-Do List Manager is a simple console-based application written in Python to help users manage their tasks. It allows users to organize tasks, set deadlines, and track their progress. The application provides the ability to add, view, edit, delete tasks, and mark them as completed.
