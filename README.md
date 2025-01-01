@@ -6,12 +6,20 @@ The To-Do List Manager is a simple console-based application written in Python t
 The data is stored persistently across sessions using a plain text file (tasks.txt). This means that tasks will remain saved even after closing and reopening the application.
 
 # Features Implemented
-Add Task: Allows users to add a new task with a description and a deadline.
-View Tasks: Displays all tasks, categorized into "Pending" and "Completed".
-Edit Task: Users can edit a task's description, deadline, or mark it as completed.
-Delete Task: Users can delete a task by its unique ID.
-Mark Task as Completed: Tasks can be marked as completed, and the status will be updated.
-Persistent Data Storage: Tasks are stored in a text file (tasks.txt), ensuring they persist across program sessions.
+**Add Task**: Allows users to add a new task with a description and a deadline.
+**View Tasks**: Displays all tasks, categorized into "Pending" and "Completed".
+**Edit Task**: Users can edit a task's description, deadline, or mark it as completed.
+**Delete Task**: Users can delete a task by its unique ID.
+**Mark Task as Completed**: Tasks can be marked as completed, and the status will be updated.
+**Persistent Data Storage**: Tasks are stored in a text file (tasks.txt), ensuring they persist across program sessions.
+
+# Instructions for Installation
+**Prerequisites**
+Python 3.x or later installed on your machine.
+
+Installation Steps:
+If you don't already have Python installed, you can download it from the official Python website: 
+https://www.python.org/downloads/
 
 # How to Run the Project
 1. Clone the repository to your local machine:
