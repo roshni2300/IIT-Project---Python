@@ -7,7 +7,6 @@ The data is stored persistently across sessions using a plain text file (tasks.t
 
 # Features Implemented
 **Add Task**: Allows users to add a new task with a description and a deadline.
-
 **View Tasks**: Displays all tasks, categorized into "Pending" and "Completed".
 **Edit Task**: Users can edit a task's description, deadline, or mark it as completed.
 **Delete Task**: Users can delete a task by its unique ID.
